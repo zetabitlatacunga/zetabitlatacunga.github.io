@@ -17454,6 +17454,13 @@ textarea[resize='horizontal']
 {
     background: linear-gradient(150deg, #32325d 15%, #32325d 70%, #32325d 94%);
 }
+
+.section-shaped .shape-style-1.shape-orange
+{
+    background: linear-gradient(150deg, #fb6340 15%, #fb6340 70%, #fb6340 94%);
+}
+
+
 .section-shaped .shape-style-2 span
 {
     height: 190px;
